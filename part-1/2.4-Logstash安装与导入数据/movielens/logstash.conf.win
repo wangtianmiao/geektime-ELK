@@ -2,7 +2,7 @@ input {
   file {
     path => "D:/Dev/DevTools/search/ml-latest-small/movies.csv"
     start_position => "beginning"
-    sincedb_path => "D:/Dev/DevTools/search/elasticsearch-7.5.1/123"
+    sincedb_path => "D:/Dev/DevTools/search/elasticsearch-node1/123"
   }
 }
 filter {
